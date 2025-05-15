@@ -48,3 +48,7 @@ This repo will contain code and markdown files of things that I learn as I try t
 - 26 pages, Zico Kotler, CS229 Stanford: https://cs229.stanford.edu/section/cs229-linalg.pdf
 - https://www.khanacademy.org/math/linear-algebra
 
+
+#### Other Videos I find that I want to save:
+- https://www.youtube.com/watch?v=EgzIZIQFJuM&ab_channel=DeepLearningwithYacine
+- 
