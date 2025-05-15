@@ -1,8 +1,10 @@
 This repo will contain code and markdown files of things that I learn as I try to understand concepts in ML and beyond. Potentially useful proof-of-work.
 
 
-1. micrograd
-2. pandas-excercises 
+1. [x] micrograd [ Done ] (will put out a video soon)
+2. [ ] [pandas-exercises](https://github.com/guipsamora/pandas_exercises) (ongoing)
+3. [ ] ISLP (ongoing) [YT_Ch02](https://www.youtube.com/watch?v=rj48FuNM-1Y&t=1168s&ab_channel=AniruddhaMukherjee)
+4. [ ] 3b1b NN Playlist (ongoing)
    
 
 
