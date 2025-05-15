@@ -26,6 +26,8 @@ This repo will contain code and markdown files of things that I learn as I try t
 - NYU DL Course (2021): https://atcold.github.io/NYU-DLSP21/
   - covers some advanced topics as well.
 
+- Mitesh Khapra IITM: https://www.cse.iitm.ac.in/~miteshk/CS6910.html 
+
 #### **Books:**
 
 - Introduction to Statistical Learning (I am reading this currently, just finished Chapter-02): https://www.statlearning.com/; Blog [here](https://www.notion.so/annimukherjee/Intro-to-Statistical-Learning-in-Python-1f06bd02bc1d8083bab9d6db109a2119?pvs=4)
