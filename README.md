@@ -35,6 +35,8 @@ This repo will contain code and markdown files of things that I learn as I try t
 - d2l.ai: https://d2l.ai/
 
 - Deep Learning (Hinton): https://www.deeplearningbook.org/
+  
+- Michael Nielsen - http://neuralnetworksanddeeplearning.com/about.html
 
 - Pandas:
   - https://wesmckinney.com/book/pandas-basics
