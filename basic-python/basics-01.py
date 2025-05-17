@@ -16,3 +16,9 @@ for w in words:
     freq_dic[w] += 1
 
 print(freq_dic)
+
+
+# ------ [improvement] ------
+
+# from collections import Counter 
+# freq_dic = Counter(words)

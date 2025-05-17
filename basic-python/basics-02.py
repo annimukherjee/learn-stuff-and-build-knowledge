@@ -28,3 +28,16 @@ for log in logs:
 
 for c_l in cleaned_logs:
     print(f"{c_l}")
+
+
+# ---------------------
+
+cleaned_logs = []
+
+# for log in logs:
+#     timestamp_part, rest = log.split("] ")
+#     timestamp = timestamp_part[1:]
+#     user, action = rest.split(": ", 1) 
+#                                           # Looks for the pattern ": " in the string
+#                                           # Splits the string at the FIRST occurrence only (that's what the 1 parameter means)
+#     cleaned_logs.append({"timestamp": timestamp, "user": user, "action": action})

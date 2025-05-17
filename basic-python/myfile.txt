@@ -1,0 +1,15 @@
+Python is the best
+
+It's so simple to read files from Python
+
+YayHello, world!
+
+Hello, world!
+
+Hello, world!
+
+Hello, world!
+
+Hello, world!
+
+Hello, world!

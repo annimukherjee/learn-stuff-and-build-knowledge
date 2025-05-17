@@ -18,7 +18,7 @@ This repo will contain code and markdown files of things that I learn as I try t
 
 - Karpathy's series: https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ (i've watched micrograd twice and I understand it extremely well now; I coded along side Andrej and I plan to make a YouTube video of me just talking about what I did (so that I myself can verbalise what I did to myself because the people around me are really smart and already know this); need to start makemore)
 
-- Cornell CS 4/5780: https://www.cs.cornell.edu/courses/cs4780/2024sp/
+- Cornell CS 4/5780: https://www.cs.cornell.edu/courses/cs4780/2024sp/; [YT-Playlist](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS)
 
 - Stanford's CS229 (Andew Ng): https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
@@ -56,4 +56,8 @@ This repo will contain code and markdown files of things that I learn as I try t
 
 #### Other Videos I find that I want to save:
 - https://www.youtube.com/watch?v=EgzIZIQFJuM&ab_channel=DeepLearningwithYacine
-- 
+
+
+#### Names of other courses I've heard in passing:
+- https://bloomberg.github.io/foml/#about
+- https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5 
